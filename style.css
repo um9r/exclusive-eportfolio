@@ -513,6 +513,7 @@ nav {
 
 .project__wrapper {
     position: relative;
+    display: flex;
     border-radius: 20px;
     box-shadow: 0 20px 80px 0 rgb(0, 0, 0, 0.45);
     overflow: hidden;
