@@ -19,7 +19,7 @@ Welcome to my personal portfolio website repository! This project is designed to
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/um9r/exclusive-eportfolio
    ```
 2. Open the project directory:
    ```bash
@@ -39,7 +39,7 @@ I welcome feedback, suggestions, and contributions to improve this project. Feel
 
 ## Contact
 
-For any inquiries, please reach out via the contact form on the website or email me directly at `your-email@example.com`.
+For any inquiries, please reach out via the contact form on the website or email me directly at `faroukumar99@gmail.com`.
 
 ## License
 
